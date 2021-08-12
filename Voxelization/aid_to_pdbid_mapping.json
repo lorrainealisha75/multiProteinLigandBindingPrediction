@@ -1,0 +1,2188 @@
+[
+    {
+        "AID": "1030",
+        "GI": "30582681",
+        "ProteinName": "aldehyde dehydrogenase 1 family, member A1 [Homo sapiens]",
+        "pdb_ids": [
+            "6DUM",
+            "5TEI",
+            "5L2O",
+            "5AC2",
+            "4X4L",
+            "4WPN",
+            "4WP7",
+            "4WB9"
+        ]
+    },
+    {
+        "AID": "1379",
+        "GI": "1669525",
+        "ProteinName": "luciferase [Photuris pensylvanica]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "1452",
+        "GI": "154426292",
+        "ProteinName": "arachidonate 12-lipoxygenase, 12S-type [Homo sapiens]",
+        "pdb_ids": [
+            "3D3L"
+        ]
+    },
+    {
+        "AID": "1454",
+        "GI": "66932916",
+        "ProteinName": "mitogen-activated protein kinase 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6RQ4",
+            "6SLG",
+            "6OPI",
+            "6OPH",
+            "6OPG",
+            "6NBS",
+            "6QAW",
+            "6QAQ",
+            "6QAL",
+            "6QAG",
+            "6Q7K",
+            "6G54",
+            "6D5Y",
+            "6GJD",
+            "6GJB",
+            "6DMG",
+            "6GE0",
+            "6GDQ",
+            "6GDM",
+            "6G9N"
+        ]
+    },
+    {
+        "AID": "1457",
+        "GI": "44888968",
+        "ProteinName": "Inositol monophosphatase 1; IMPase 1; IMP 1; Inositol-1(or 4)-monophosphatase 1; Lithium-sensitive myo-inositol monophosphatase A1",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "1458",
+        "GI": "10937869",
+        "ProteinName": "survival motor neuron protein isoform d [Homo sapiens]",
+        "pdb_ids": [
+            "5XJU",
+            "5XJT",
+            "5XJS",
+            "5XJR",
+            "5XJQ",
+            "5XJL",
+            "5MF9",
+            "4GLI",
+            "2LEH",
+            "4A4G",
+            "4A4E",
+            "1MHN",
+            "1G5V"
+        ]
+    },
+    {
+        "AID": "1460",
+        "GI": "92096784",
+        "ProteinName": "Microtubule-associated protein tau [Homo sapiens]",
+        "pdb_ids": [
+            "6PXR",
+            "6VI3",
+            "6VHL",
+            "6VHA",
+            "6VH7",
+            "6TJX",
+            "6TJO",
+            "6NK4",
+            "6N4P",
+            "6ODG",
+            "6NWQ",
+            "6NWP",
+            "6DCA",
+            "6DC9",
+            "6DC8",
+            "6QJM",
+            "5ZV3",
+            "1I8H",
+            "6BB4",
+            "5MP5"
+        ]
+    },
+    {
+        "AID": "1461",
+        "GI": "46395496",
+        "ProteinName": "neuropeptide S receptor isoform A [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "1468",
+        "GI": "92096784",
+        "ProteinName": "Microtubule-associated protein tau [Homo sapiens]",
+        "pdb_ids": [
+            "6PXR",
+            "6VI3",
+            "6VHL",
+            "6VHA",
+            "6VH7",
+            "6TJX",
+            "6TJO",
+            "6NK4",
+            "6N4P",
+            "6ODG",
+            "6NWQ",
+            "6NWP",
+            "6DCA",
+            "6DC9",
+            "6DC8",
+            "6QJM",
+            "5ZV3",
+            "1I8H",
+            "6BB4",
+            "5MP5"
+        ]
+    },
+    {
+        "AID": "1469",
+        "GI": "189491771",
+        "ProteinName": "thyroid hormone receptor beta [Homo sapiens]",
+        "pdb_ids": [
+            "4ZO1",
+            "3JZC",
+            "3IMY",
+            "3GWS",
+            "3D57",
+            "2PIN",
+            "2J4A",
+            "2NLL",
+            "1R6G",
+            "1Y0X",
+            "1XZX",
+            "1Q4X",
+            "1NAX",
+            "1NUO",
+            "1NQ2",
+            "1NQ1",
+            "1NQ0",
+            "1N46",
+            "1BSX"
+        ]
+    },
+    {
+        "AID": "1471",
+        "GI": "90903231",
+        "ProteinName": "huntingtin [Homo sapiens]",
+        "pdb_ids": [
+            "6X9O",
+            "6RMH",
+            "6N8C",
+            "3IOU",
+            "6EZ8",
+            "4RAV",
+            "4FED",
+            "4FEC",
+            "4FEB",
+            "4FE8",
+            "2LD2",
+            "2LD0",
+            "3LRH",
+            "3IO6",
+            "3IO4",
+            "3IOW",
+            "3IOV",
+            "3IOT",
+            "3IOR"
+        ]
+    },
+    {
+        "AID": "1479",
+        "GI": "189491771",
+        "ProteinName": "thyroid hormone receptor beta [Homo sapiens]",
+        "pdb_ids": [
+            "4ZO1",
+            "3JZC",
+            "3IMY",
+            "3GWS",
+            "3D57",
+            "2PIN",
+            "2J4A",
+            "2NLL",
+            "1R6G",
+            "1Y0X",
+            "1XZX",
+            "1Q4X",
+            "1NAX",
+            "1NUO",
+            "1NQ2",
+            "1NQ1",
+            "1NQ0",
+            "1N46",
+            "1BSX"
+        ]
+    },
+    {
+        "AID": "1631",
+        "GI": "33286418",
+        "ProteinName": "pyruvate kinase PKM isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "6JFB",
+            "6TTQ",
+            "6TTI",
+            "6TTH",
+            "6TTF",
+            "6GG3",
+            "6GG6",
+            "6GG5",
+            "6GG4",
+            "6B6U",
+            "4YJ5",
+            "4WJ8",
+            "4RPP",
+            "4QGC",
+            "4QG9",
+            "4QG8",
+            "4QG6",
+            "4JPG",
+            "4FXJ",
+            "4FXF"
+        ]
+    },
+    {
+        "AID": "1634",
+        "GI": "33286418",
+        "ProteinName": "pyruvate kinase PKM isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "6JFB",
+            "6TTQ",
+            "6TTI",
+            "6TTH",
+            "6TTF",
+            "6GG3",
+            "6GG6",
+            "6GG5",
+            "6GG4",
+            "6B6U",
+            "4YJ5",
+            "4WJ8",
+            "4RPP",
+            "4QGC",
+            "4QG9",
+            "4QG8",
+            "4QG6",
+            "4JPG",
+            "4FXJ",
+            "4FXF"
+        ]
+    },
+    {
+        "AID": "1688",
+        "GI": "90903231",
+        "ProteinName": "huntingtin [Homo sapiens]",
+        "pdb_ids": [
+            "6X9O",
+            "6RMH",
+            "6N8C",
+            "3IOU",
+            "6EZ8",
+            "4RAV",
+            "4FED",
+            "4FEC",
+            "4FEB",
+            "4FE8",
+            "2LD2",
+            "2LD0",
+            "3LRH",
+            "3IO6",
+            "3IO4",
+            "3IOW",
+            "3IOV",
+            "3IOT",
+            "3IOR"
+        ]
+    },
+    {
+        "AID": "1721",
+        "GI": "290753097",
+        "ProteinName": "pyruvate kinase [Leishmania mexicana mexicana]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "2100",
+        "GI": "119393891",
+        "ProteinName": "lysosomal alpha-glucosidase preproprotein [Homo sapiens]",
+        "pdb_ids": [
+            "5KZX",
+            "5KZW"
+        ]
+    },
+    {
+        "AID": "2101",
+        "GI": "496369",
+        "ProteinName": "glucocerebrosidase [Homo sapiens]",
+        "pdb_ids": [
+            "6Q6N",
+            "6Q6L",
+            "6Q6K",
+            "3RIL",
+            "3RIK",
+            "2XWE",
+            "2XWD",
+            "3KEH",
+            "3KE0",
+            "2WKL",
+            "3GXM",
+            "3GXI",
+            "3GXF",
+            "3GXD",
+            "2V3F",
+            "2V3E",
+            "2V3D",
+            "2NT1",
+            "2NT0",
+            "2NSX"
+        ]
+    },
+    {
+        "AID": "2147",
+        "GI": "221046486",
+        "ProteinName": "Chain A, Crystal Structure Of The Human 2-oxoglutarate Oxygenase Loc390245",
+        "pdb_ids": [
+            "2W2I"
+        ]
+    },
+    {
+        "AID": "2242",
+        "GI": "119393891",
+        "ProteinName": "lysosomal alpha-glucosidase preproprotein [Homo sapiens]",
+        "pdb_ids": [
+            "5KZX",
+            "5KZW"
+        ]
+    },
+    {
+        "AID": "2326",
+        "GI": "194352380",
+        "ProteinName": "nonstructural protein 1 [Influenza A virus (A/WSN/1933(H1N1))]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "2451",
+        "GI": "122920737",
+        "ProteinName": "Chain A, Structure Of Giardia Fructose-1,6-biphosphate Aldolase In Complex With Phosphoglycolohydroxamate",
+        "pdb_ids": [
+            "2ISV",
+            "3OHI",
+            "2ISW"
+        ]
+    },
+    {
+        "AID": "2517",
+        "GI": "6980812",
+        "ProteinName": "Chain A, Human Ape1 Endonuclease With Bound Abasic Dna And Mn2+ Ion",
+        "pdb_ids": [
+            "1DE9",
+            "1DE8"
+        ]
+    },
+    {
+        "AID": "2528",
+        "GI": "4557365",
+        "ProteinName": "Bloom syndrome protein isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "4O3M",
+            "4CDG",
+            "3WE3",
+            "3WE2",
+            "2KV2",
+            "2RRD"
+        ]
+    },
+    {
+        "AID": "2546",
+        "GI": "188536040",
+        "ProteinName": "nuclear receptor ROR-gamma isoform 1 [Mus musculus]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "2549",
+        "GI": "282403581",
+        "ProteinName": "Chain A, Structure Of Human Recq-like Helicase In Complex With A Dna Substrate",
+        "pdb_ids": [
+            "2WWY",
+            "2V1X"
+        ]
+    },
+    {
+        "AID": "2551",
+        "GI": "188536040",
+        "ProteinName": "nuclear receptor ROR-gamma isoform 1 [Mus musculus]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "2662",
+        "GI": "56550039",
+        "ProteinName": "histone-lysine N-methyltransferase 2A isoform 2 precursor [Homo sapiens]",
+        "pdb_ids": [
+            "6PWW",
+            "6PWV",
+            "6KIZ",
+            "6KIX",
+            "6KIV",
+            "6KIU",
+            "5SVH",
+            "5F6L",
+            "5F5E",
+            "2MTN",
+            "2MSR",
+            "4NW3",
+            "2LXT",
+            "2LXS",
+            "4GQ6",
+            "4ESG",
+            "3U88",
+            "3U85",
+            "3P4F",
+            "2KYU"
+        ]
+    },
+    {
+        "AID": "2675",
+        "GI": "41281591",
+        "ProteinName": "muscleblind-like protein 1 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "5U9B",
+            "5U6L",
+            "5U6H",
+            "3D2S",
+            "3D2Q",
+            "3D2N"
+        ]
+    },
+    {
+        "AID": "2676",
+        "GI": "85986601",
+        "ProteinName": "relaxin receptor 1 isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "2M7P",
+            "2JM4"
+        ]
+    },
+    {
+        "AID": "411",
+        "GI": "160794",
+        "ProteinName": "Luciferase [Photinus pyralis]",
+        "pdb_ids": [
+            "6Q2M",
+            "5WYS",
+            "5GZ2",
+            "5GYZ",
+            "5KYV",
+            "5KYT",
+            "4E5D",
+            "4G37",
+            "4G36",
+            "3RIX",
+            "3IES",
+            "3IER",
+            "3IEP",
+            "1LCI",
+            "1BA3"
+        ]
+    },
+    {
+        "AID": "463254",
+        "GI": "188528692",
+        "ProteinName": "ubiquitin carboxyl-terminal hydrolase 2 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "6DGF",
+            "5XVE",
+            "5XU8",
+            "3V6E",
+            "3V6C",
+            "3NHE",
+            "2IBI",
+            "2HD5"
+        ]
+    },
+    {
+        "AID": "485281",
+        "GI": "254220970",
+        "ProteinName": "Chain A, Horse Spleen Apoferritin",
+        "pdb_ids": [
+            "3F32",
+            "6GXJ",
+            "6MSX",
+            "6HJU",
+            "6HJT",
+            "6FX9",
+            "6FX8",
+            "6ENW",
+            "6ENV",
+            "5HQO",
+            "5E2D",
+            "5E1U",
+            "5MIK",
+            "5MIJ",
+            "5IX6",
+            "5ERK",
+            "5ERJ",
+            "3WVW",
+            "4V1W",
+            "3U90"
+        ]
+    },
+    {
+        "AID": "485290",
+        "GI": "20150581",
+        "ProteinName": "Chain A, Crystal Structure Of Human Tyrosyl-Dna Phosphodiesterase (Tdp1)",
+        "pdb_ids": [
+            "1JY1"
+        ]
+    },
+    {
+        "AID": "485294",
+        "GI": "119389684",
+        "ProteinName": "Chain A, Ampc Beta-Lactamase In Complex With 4-Methanesulfonylamino Benzoic Acid",
+        "pdb_ids": [
+            "2HDS",
+            "6DPZ",
+            "6DPY",
+            "6DPX",
+            "6DPT",
+            "3GV9",
+            "4KG2",
+            "4JXG",
+            "4LV3",
+            "4LV2",
+            "4LV1",
+            "4LV0",
+            "4OLG",
+            "4OLD",
+            "4OKP",
+            "4KZB",
+            "4KZA",
+            "4KZ9",
+            "4KZ8",
+            "4KZ7"
+        ]
+    },
+    {
+        "AID": "485297",
+        "GI": "4759012",
+        "ProteinName": "ras-related protein Rab-9A [Homo sapiens]",
+        "pdb_ids": [
+            "1WMS"
+        ]
+    },
+    {
+        "AID": "485313",
+        "GI": "255652944",
+        "ProteinName": "Niemann-Pick C1 protein precursor [Homo sapiens]",
+        "pdb_ids": [
+            "6W5V",
+            "6W5U",
+            "6W5T",
+            "6W5S",
+            "6W5R",
+            "6UOX",
+            "5U73",
+            "5KWY",
+            "5JNX",
+            "3JD8",
+            "5HNS",
+            "5F1B",
+            "5F18",
+            "3GKJ",
+            "3GKI",
+            "3GKH"
+        ]
+    },
+    {
+        "AID": "485314",
+        "GI": "4505931",
+        "ProteinName": "DNA polymerase beta [Homo sapiens]",
+        "pdb_ids": [
+            "6W2M",
+            "6PKZ",
+            "6UOM",
+            "6UOL",
+            "6UOK",
+            "6NL0",
+            "6NKZ",
+            "6NKY",
+            "6NKX",
+            "6NKW",
+            "6NKV",
+            "6NKU",
+            "6NKT",
+            "6NKS",
+            "6NKR",
+            "6PH6",
+            "6PH5",
+            "4NXZ",
+            "6N2R",
+            "6E3X"
+        ]
+    },
+    {
+        "AID": "485341",
+        "GI": "119389684",
+        "ProteinName": "Chain A, Ampc Beta-Lactamase In Complex With 4-Methanesulfonylamino Benzoic Acid",
+        "pdb_ids": [
+            "2HDS",
+            "6DPZ",
+            "6DPY",
+            "6DPX",
+            "6DPT",
+            "3GV9",
+            "4KG2",
+            "4JXG",
+            "4LV3",
+            "4LV2",
+            "4LV1",
+            "4LV0",
+            "4OLG",
+            "4OLD",
+            "4OKP",
+            "4KZB",
+            "4KZA",
+            "4KZ9",
+            "4KZ8",
+            "4KZ7"
+        ]
+    },
+    {
+        "AID": "485349",
+        "GI": "71902540",
+        "ProteinName": "serine-protein kinase ATM [Homo sapiens]",
+        "pdb_ids": [
+            "6K9L",
+            "6K9K",
+            "6HKA"
+        ]
+    },
+    {
+        "AID": "485353",
+        "GI": "30124074",
+        "ProteinName": "orf1ab polyprotein (pp1ab) [SARS coronavirus]",
+        "pdb_ids": [
+            "5TL7",
+            "6JYT",
+            "5N5O",
+            "5N19",
+            "5TL6",
+            "5B6O",
+            "5E6J",
+            "5F22",
+            "5C8U",
+            "5C8T",
+            "5C8S",
+            "4WY3",
+            "4TWY",
+            "4TWW",
+            "3R24",
+            "2XYV",
+            "2XYR",
+            "2XYQ",
+            "3EBN"
+        ]
+    },
+    {
+        "AID": "485360",
+        "GI": "117938328",
+        "ProteinName": "lethal(3)malignant brain tumor-like protein 1 isoform I [Homo sapiens]",
+        "pdb_ids": [
+            "6BYB",
+            "3UWN",
+            "3P8H",
+            "3OQ5",
+            "2RI5",
+            "2RI3",
+            "2RI2",
+            "2RHZ",
+            "2RHY",
+            "2RHX",
+            "2RHU",
+            "2RHI",
+            "2RJF",
+            "2RJE",
+            "2RJD",
+            "2RJC",
+            "2PQW",
+            "1OZ3",
+            "1OZ2",
+            "1OYX"
+        ]
+    },
+    {
+        "AID": "485364",
+        "GI": "15149312",
+        "ProteinName": "thioredoxin glutathione reductase [Schistosoma mansoni]",
+        "pdb_ids": [
+            "6RTO",
+            "6RTM",
+            "6RTJ",
+            "6FTC",
+            "6FP4",
+            "6FMZ",
+            "6FMU"
+        ]
+    },
+    {
+        "AID": "485367",
+        "GI": "72386991",
+        "ProteinName": "ATP-dependent phosphofructokinase [Trypanosoma brucei brucei TREU927]",
+        "pdb_ids": [
+            "3F5M",
+            "3CVL",
+            "2HIG"
+        ]
+    },
+    {
+        "AID": "492947",
+        "GI": "4501969",
+        "ProteinName": "beta-2 adrenergic receptor [Homo sapiens]",
+        "pdb_ids": [
+            "6OBA",
+            "6NI3",
+            "6PS6",
+            "6PS5",
+            "6PS4",
+            "6PS3",
+            "6PS2",
+            "6PS1",
+            "6PS0",
+            "6PRZ",
+            "6MXT",
+            "5X7D",
+            "5D6L",
+            "5D5B",
+            "5D5A",
+            "4QKX",
+            "4LDO",
+            "4LDL",
+            "4LDE",
+            "4GBR"
+        ]
+    },
+    {
+        "AID": "493208",
+        "GI": "4826730",
+        "ProteinName": "serine/threonine-protein kinase mTOR [Homo sapiens]",
+        "pdb_ids": [
+            "6SB2",
+            "6SB0",
+            "5FLC",
+            "5ZCS",
+            "5WBY",
+            "5WBU",
+            "5WBH",
+            "5H64",
+            "5GPG",
+            "4JT6",
+            "4JT5",
+            "4JSX",
+            "4JSN",
+            "4JSV",
+            "4JSP",
+            "4DRJ",
+            "4DRI",
+            "4DRH",
+            "2RSE",
+            "2NPU"
+        ]
+    },
+    {
+        "AID": "504327",
+        "GI": "153791535",
+        "ProteinName": "histone acetyltransferase KAT2A [Homo sapiens]",
+        "pdb_ids": [
+            "6J3P",
+            "5MLJ",
+            "5TRM",
+            "5TRL",
+            "5H86",
+            "5H84",
+            "3D7C",
+            "1Z4R",
+            "1F68"
+        ]
+    },
+    {
+        "AID": "504332",
+        "GI": "168985070",
+        "ProteinName": "euchromatic histone-lysine N-methyltransferase 2 [Homo sapiens]",
+        "pdb_ids": [
+            "6MM1",
+            "5V9I",
+            "5VSE",
+            "5VSC",
+            "5TUY",
+            "5TTF",
+            "5T0M",
+            "5T0K",
+            "5JIY",
+            "4NVQ",
+            "3RJW",
+            "3K5K",
+            "3DM1",
+            "2O8J"
+        ]
+    },
+    {
+        "AID": "504333",
+        "GI": "6683500",
+        "ProteinName": "bromodomain adjacent to zinc finger domain 2B [Homo sapiens]",
+        "pdb_ids": [
+            "6FH7",
+            "6FH6",
+            "6FGU",
+            "6FGT",
+            "6FI1",
+            "6FHQ",
+            "5ORB",
+            "5OR9",
+            "5MGG",
+            "5MGF",
+            "5MGE",
+            "5L99",
+            "5L98",
+            "5L97",
+            "5L96",
+            "5L8U",
+            "5L8T",
+            "5E9Y",
+            "5E9M",
+            "5E9L"
+        ]
+    },
+    {
+        "AID": "504339",
+        "GI": "162330054",
+        "ProteinName": "Chain A, Jmjd2a Tandem Tudor Domains In Complex With A Trimethylated Histone H4-K20 Peptide",
+        "pdb_ids": [
+            "2QQS"
+        ]
+    },
+    {
+        "AID": "504444",
+        "GI": "224028257",
+        "ProteinName": "nuclear factor erythroid 2-related factor 2 isoform 2 [Homo sapiens]",
+        "pdb_ids": [
+            "3ZGC",
+            "2LZ1",
+            "2FLU"
+        ]
+    },
+    {
+        "AID": "504466",
+        "GI": "116283940",
+        "ProteinName": "ATAD5 protein, partial [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "504467",
+        "GI": "116283940",
+        "ProteinName": "ATAD5 protein, partial [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "504706",
+        "GI": "23491729",
+        "ProteinName": "P53 [Homo sapiens]",
+        "pdb_ids": [
+            "7BWN",
+            "6VRN",
+            "6VRM",
+            "6VR5",
+            "6SLV",
+            "6SIQ",
+            "6SIP",
+            "6SIO",
+            "6SIN",
+            "6S9Q",
+            "6S39",
+            "6RX2",
+            "6RWU",
+            "6RWS",
+            "6RWI",
+            "6RWH",
+            "6RM7",
+            "6RM5",
+            "6RL6",
+            "6RL4"
+        ]
+    },
+    {
+        "AID": "504842",
+        "GI": "4090929",
+        "ProteinName": "chaperonin-containing TCP-1 beta subunit homolog [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "504845",
+        "GI": "86301163",
+        "ProteinName": "regulator of G-protein signaling 4 [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "504847",
+        "GI": "63054845",
+        "ProteinName": "vitamin D3 receptor isoform VDRA [Homo sapiens]",
+        "pdb_ids": [
+            "5YT2",
+            "5YSY",
+            "5V39",
+            "5GT4",
+            "3X36",
+            "3X31",
+            "3WWR",
+            "3WGP",
+            "4ITF",
+            "4ITE",
+            "3W0Y",
+            "3W0C",
+            "3W0A",
+            "3VHW",
+            "4G2I",
+            "3TKC",
+            "3AZ3",
+            "3AZ2",
+            "3AZ1",
+            "3KPZ"
+        ]
+    },
+    {
+        "AID": "504891",
+        "GI": "5453898",
+        "ProteinName": "peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6O34",
+            "6O33",
+            "1I8G",
+            "1I8H",
+            "5VTK",
+            "5VTJ",
+            "5VTI",
+            "5GPH",
+            "5UY9",
+            "5BMY",
+            "5B3Z",
+            "5B3Y",
+            "5B3X",
+            "5B3W",
+            "2RUR",
+            "2RUQ",
+            "2N1O",
+            "4U86",
+            "4U85",
+            "4U84"
+        ]
+    },
+    {
+        "AID": "540276",
+        "GI": "420597",
+        "ProteinName": "gene 4 small orf - Marburg virus",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "540317",
+        "GI": "187960037",
+        "ProteinName": "chromobox protein homolog 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6D08",
+            "6D07",
+            "5T1G",
+            "3Q6S",
+            "3F2U",
+            "2FMM"
+        ]
+    },
+    {
+        "AID": "588342",
+        "GI": "160794",
+        "ProteinName": "Luciferase [Photinus pyralis]",
+        "pdb_ids": [
+            "6Q2M",
+            "5WYS",
+            "5GZ2",
+            "5GYZ",
+            "5KYV",
+            "5KYT",
+            "4E5D",
+            "4G37",
+            "4G36",
+            "3RIX",
+            "3IES",
+            "3IER",
+            "3IEP",
+            "1LCI",
+            "1BA3"
+        ]
+    },
+    {
+        "AID": "588453",
+        "GI": "8659577",
+        "ProteinName": "thioredoxin reductase [Rattus norvegicus]",
+        "pdb_ids": [
+            "4KPR",
+            "3EAO",
+            "3EAN",
+            "1H6V"
+        ]
+    },
+    {
+        "AID": "588456",
+        "GI": "8659577",
+        "ProteinName": "thioredoxin reductase [Rattus norvegicus]",
+        "pdb_ids": [
+            "4KPR",
+            "3EAO",
+            "3EAN",
+            "1H6V"
+        ]
+    },
+    {
+        "AID": "588579",
+        "GI": "7705344",
+        "ProteinName": "DNA polymerase kappa isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6CST",
+            "5W2C",
+            "5W2A",
+            "5T14",
+            "4U7C",
+            "4U6P",
+            "4BA9",
+            "4GK5",
+            "2OH2",
+            "3PZP",
+            "3IN5",
+            "2W7P",
+            "2W7O",
+            "1T94"
+        ]
+    },
+    {
+        "AID": "588590",
+        "GI": "154350220",
+        "ProteinName": "DNA polymerase iota [Homo sapiens]",
+        "pdb_ids": [
+            "1T3N",
+            "5ULX",
+            "5ULW",
+            "5KT7",
+            "5KT6",
+            "5KT5",
+            "5KT4",
+            "5KT3",
+            "5KT2",
+            "2MBB",
+            "4EYI",
+            "4EYH",
+            "2FLL",
+            "4FS2",
+            "4FS1",
+            "4EBE",
+            "4EBD",
+            "4EBC",
+            "3Q8S",
+            "3Q8R"
+        ]
+    },
+    {
+        "AID": "588591",
+        "GI": "5729982",
+        "ProteinName": "DNA polymerase eta isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6PL8",
+            "6PL7",
+            "6PLC",
+            "6UI2",
+            "6Q02",
+            "6PZ3",
+            "6MP3",
+            "6MXO",
+            "5F9N",
+            "5F9L",
+            "5L1L",
+            "5L1K",
+            "5L1J",
+            "5L1I",
+            "5JUM",
+            "5DGB",
+            "5DGA",
+            "5DG9",
+            "5DG8",
+            "5DG7"
+        ]
+    },
+    {
+        "AID": "588795",
+        "GI": "4758356",
+        "ProteinName": "flap endonuclease 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6TNZ",
+            "5ZOG",
+            "5ZOF",
+            "5ZOE",
+            "5ZOD",
+            "5UM9",
+            "5KSE",
+            "5K97",
+            "5FV7",
+            "3UVU",
+            "3Q8M",
+            "3Q8L",
+            "3Q8K",
+            "1UL1",
+            "1U7B"
+        ]
+    },
+    {
+        "AID": "588855",
+        "GI": "18418623",
+        "ProteinName": "Smad3 [Homo sapiens]",
+        "pdb_ids": [
+            "5XOC",
+            "5ODG",
+            "5OD6",
+            "2LB2",
+            "2LAJ",
+            "1OZJ",
+            "1MHD",
+            "1U7F",
+            "1MK2",
+            "1MJS"
+        ]
+    },
+    {
+        "AID": "602179",
+        "GI": "89573979",
+        "ProteinName": "isocitrate dehydrogenase 1, partial [Homo sapiens]",
+        "pdb_ids": [
+            "6U4J",
+            "6VG0",
+            "6VEI",
+            "6IO0",
+            "6Q6F",
+            "6PAY",
+            "6B0Z",
+            "5SVF",
+            "5SUN",
+            "5LGE",
+            "5TQH",
+            "5L58",
+            "5L57",
+            "5K11",
+            "5K10",
+            "4XRX",
+            "4UMY",
+            "4UMX",
+            "4L04",
+            "4L06"
+        ]
+    },
+    {
+        "AID": "602233",
+        "GI": "115503961",
+        "ProteinName": "phosphoglycerate kinase [Trypanosoma brucei brucei TREU927]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "602310",
+        "GI": "13399304",
+        "ProteinName": "DNA dC->dU-editing enzyme APOBEC-3G [Homo sapiens]",
+        "pdb_ids": [
+            "5ZVB",
+            "5ZVA",
+            "6BWY",
+            "4ROW",
+            "4ROV",
+            "3V4J",
+            "3V4K",
+            "3IR2",
+            "3IQS",
+            "2KEM",
+            "2KBO",
+            "3E1U",
+            "2JYW"
+        ]
+    },
+    {
+        "AID": "602313",
+        "GI": "22907044",
+        "ProteinName": "DNA dC->dU-editing enzyme APOBEC-3F isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "6NIL",
+            "5ZVB",
+            "5ZVA",
+            "5HX5",
+            "5HX4",
+            "4J4J"
+        ]
+    },
+    {
+        "AID": "602332",
+        "GI": "168984549",
+        "ProteinName": "heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Homo sapiens]",
+        "pdb_ids": [
+            "5E84",
+            "6CZ1",
+            "6ASY",
+            "5F2R",
+            "5F1X",
+            "5F0X",
+            "5EY4",
+            "5EXW",
+            "5EX5",
+            "5EVZ",
+            "5E86",
+            "5E85",
+            "3LDP",
+            "3LDO",
+            "3LDN",
+            "3LDL"
+        ]
+    },
+    {
+        "AID": "624170",
+        "GI": "71051501",
+        "ProteinName": "GLS protein [Homo sapiens]",
+        "pdb_ids": [
+            "5HL1",
+            "5JYP",
+            "5JYO",
+            "5D3O",
+            "4O7D",
+            "3VP4",
+            "3VP3",
+            "3VP2",
+            "3VP1",
+            "3VP0",
+            "3VOZ",
+            "3VOY",
+            "3UO9",
+            "3UNW",
+            "3CZD"
+        ]
+    },
+    {
+        "AID": "624171",
+        "GI": "693842",
+        "ProteinName": "Nrf2 [Homo sapiens]",
+        "pdb_ids": [
+            "3ZGC",
+            "2LZ1",
+            "2FLU"
+        ]
+    },
+    {
+        "AID": "624173",
+        "GI": "62359610",
+        "ProteinName": "hypothetical protein, conserved [Trypanosoma brucei]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "624202",
+        "GI": "1698399",
+        "ProteinName": "BRCA1 [Homo sapiens]",
+        "pdb_ids": [
+            "1OQA",
+            "4Y2G",
+            "4Y18",
+            "4U4A",
+            "4OFB",
+            "4JLU",
+            "4IGK",
+            "4IFI",
+            "3PXE",
+            "3PXD",
+            "3PXC",
+            "3PXB",
+            "3PXA",
+            "3K16",
+            "3K15",
+            "3K0K",
+            "3K0H",
+            "3COJ",
+            "2ING",
+            "1Y98"
+        ]
+    },
+    {
+        "AID": "624246",
+        "GI": "343478176",
+        "ProteinName": "transcriptional regulator ERG isoform 3 [Homo sapiens]",
+        "pdb_ids": [
+            "5YBD",
+            "4IRI",
+            "4IRH",
+            "4IRG",
+            "1SXE"
+        ]
+    },
+    {
+        "AID": "624287",
+        "GI": "52000961",
+        "ProteinName": "Guanine nucleotide-binding protein G(s) subunit alpha isoforms short; Adenylate cyclase-stimulating G alpha protein",
+        "pdb_ids": [
+            "6WZG",
+            "6WPW",
+            "6WI9",
+            "7BZ2",
+            "6VCB",
+            "6WHC",
+            "6UVA",
+            "6UUS",
+            "6LMK",
+            "6UUN",
+            "6LI3",
+            "6PB1",
+            "6PB0",
+            "6P9Y",
+            "6P9X",
+            "6NI3",
+            "6NIY",
+            "6GDG",
+            "6AU6",
+            "6B3J"
+        ]
+    },
+    {
+        "AID": "624288",
+        "GI": "52000961",
+        "ProteinName": "Guanine nucleotide-binding protein G(s) subunit alpha isoforms short; Adenylate cyclase-stimulating G alpha protein",
+        "pdb_ids": [
+            "6WZG",
+            "6WPW",
+            "6WI9",
+            "7BZ2",
+            "6VCB",
+            "6WHC",
+            "6UVA",
+            "6UUS",
+            "6LMK",
+            "6UUN",
+            "6LI3",
+            "6PB1",
+            "6PB0",
+            "6P9Y",
+            "6P9X",
+            "6NI3",
+            "6NIY",
+            "6GDG",
+            "6AU6",
+            "6B3J"
+        ]
+    },
+    {
+        "AID": "624291",
+        "GI": "121312",
+        "ProteinName": "Glycoprotein hormones alpha chain; Anterior pituitary glycoprotein hormones common subunit alpha; Choriogonadotropin alpha chain; Chorionic gonadotrophin subunit alpha; CG-alpha; Follicle-stimulating hormone alpha chain; FSH-alpha; Follitropin alpha chain; Luteinizing hormone alpha chain; LSH-alpha; Lutropin alpha chain; Thyroid-stimulating hormone alpha chain; TSH-alpha; Thyrotropin alpha chain",
+        "pdb_ids": [
+            "1HRP",
+            "1XWD",
+            "1HD4",
+            "1E9J",
+            "1FL7",
+            "1QFW",
+            "1DZ7",
+            "1HCN"
+        ]
+    },
+    {
+        "AID": "624296",
+        "GI": "7705682",
+        "ProteinName": "geminin [Homo sapiens]",
+        "pdb_ids": [
+            "2LP0",
+            "2WVR",
+            "1UII",
+            "1T6F"
+        ]
+    },
+    {
+        "AID": "624297",
+        "GI": "7705682",
+        "ProteinName": "geminin [Homo sapiens]",
+        "pdb_ids": [
+            "2LP0",
+            "2WVR",
+            "1UII",
+            "1T6F"
+        ]
+    },
+    {
+        "AID": "624417",
+        "GI": "1724069",
+        "ProteinName": "glp-1 receptor, partial [Homo sapiens]",
+        "pdb_ids": [
+            "6VCB",
+            "6KK7",
+            "6KK1",
+            "6KJV",
+            "5OTX",
+            "5OTW",
+            "5OTV",
+            "5OTU",
+            "5OTT",
+            "6GB1",
+            "6B3J",
+            "5NX2",
+            "5E94",
+            "3IOL",
+            "3C5T",
+            "3C59"
+        ]
+    },
+    {
+        "AID": "651635",
+        "GI": "171543895",
+        "ProteinName": "ataxin-2 isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "3KTR"
+        ]
+    },
+    {
+        "AID": "651644",
+        "GI": "28872817",
+        "ProteinName": "Vpr [Human immunodeficiency virus 1]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "651768",
+        "GI": "3719421",
+        "ProteinName": "WRN [Homo sapiens]",
+        "pdb_ids": [
+            "6YHR",
+            "3AAF",
+            "2E1F",
+            "2E1E",
+            "2DGZ",
+            "2FC0",
+            "2FBY",
+            "2FBX",
+            "2FBV",
+            "2FBT",
+            "2AXL"
+        ]
+    },
+    {
+        "AID": "651965",
+        "GI": "2668494",
+        "ProteinName": "ClpP [Bacillus subtilis]",
+        "pdb_ids": [
+            "3TT7"
+        ]
+    },
+    {
+        "AID": "652025",
+        "GI": "7110653",
+        "ProteinName": "interleukin-2 precursor [Mus musculus]",
+        "pdb_ids": [
+            "4YUE",
+            "4YQX"
+        ]
+    },
+    {
+        "AID": "652104",
+        "GI": "20140568",
+        "ProteinName": "TAR DNA-binding protein 43; TDP-43",
+        "pdb_ids": [
+            "6T4B",
+            "6B1G",
+            "6CFH",
+            "5WKB",
+            "5WHP",
+            "5WIA",
+            "5WHN",
+            "5WKD",
+            "5WIQ",
+            "5W7V",
+            "5W52",
+            "5W50",
+            "5X4F",
+            "5MRG",
+            "4Y0F",
+            "4Y00",
+            "2N4P",
+            "2N2C",
+            "4IUF",
+            "4BS2"
+        ]
+    },
+    {
+        "AID": "652105",
+        "GI": "18266879",
+        "ProteinName": "Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha; 1-phosphatidylinositol 5-phosphate 4-kinase 2-alpha; Diphosphoinositide kinase 2-alpha; PIP5KIII; Phosphatidylinositol 5-phosphate 4-kinase type II alpha; PI(5)P 4-kinase type II alpha; PIP4KII-alpha; PtdIns(4)P-5-kinase B isoform; PtdIns(4)P-5-kinase C isoform; PtdIns(5)P-4-kinase isoform 2-alpha",
+        "pdb_ids": [
+            "6OSP",
+            "2YBX"
+        ]
+    },
+    {
+        "AID": "652106",
+        "GI": "586067",
+        "ProteinName": "Alpha-synuclein; Non-A beta component of AD amyloid; Non-A4 component of amyloid precursor; NACP",
+        "pdb_ids": [
+            "6L1U",
+            "6L1T",
+            "6L4S",
+            "6LRQ",
+            "6UFR",
+            "6I42",
+            "6XYQ",
+            "6XYP",
+            "6XYO",
+            "6SSX",
+            "6SST",
+            "6PES",
+            "6PEO",
+            "6OSM",
+            "6OSL",
+            "6OSJ",
+            "6CU8",
+            "6CU7",
+            "6A6B",
+            "6FLT"
+        ]
+    },
+    {
+        "AID": "686970",
+        "GI": "49168486",
+        "ProteinName": "IDH1 [Homo sapiens]",
+        "pdb_ids": [
+            "6U4J",
+            "6VG0",
+            "6VEI",
+            "6IO0",
+            "6Q6F",
+            "6PAY",
+            "6B0Z",
+            "5SVF",
+            "5SUN",
+            "5LGE",
+            "5TQH",
+            "5L58",
+            "5L57",
+            "5K11",
+            "5K10",
+            "4XRX",
+            "4UMY",
+            "4UMX",
+            "4L04",
+            "4L06"
+        ]
+    },
+    {
+        "AID": "686978",
+        "GI": "79154014",
+        "ProteinName": "TDP1 protein [Homo sapiens]",
+        "pdb_ids": [
+            "6N0R",
+            "6N0O",
+            "6N0N",
+            "6N0D",
+            "6MZ0",
+            "6MYZ",
+            "1RFF",
+            "1NOP",
+            "1RFI",
+            "1RH0",
+            "1RGU",
+            "1RGT",
+            "1RG2",
+            "1RG1",
+            "1QZQ",
+            "1MU9",
+            "1MU7",
+            "1JY1"
+        ]
+    },
+    {
+        "AID": "686979",
+        "GI": "79154014",
+        "ProteinName": "TDP1 protein [Homo sapiens]",
+        "pdb_ids": [
+            "6N0R",
+            "6N0O",
+            "6N0N",
+            "6N0D",
+            "6MZ0",
+            "6MYZ",
+            "1RFF",
+            "1NOP",
+            "1RFI",
+            "1RH0",
+            "1RGU",
+            "1RGT",
+            "1RG2",
+            "1RG1",
+            "1QZQ",
+            "1MU9",
+            "1MU7",
+            "1JY1"
+        ]
+    },
+    {
+        "AID": "720504",
+        "GI": "21359873",
+        "ProteinName": "serine/threonine-protein kinase PLK1 [Homo sapiens]",
+        "pdb_ids": [
+            "6GY2",
+            "5NJE",
+            "5NFU",
+            "5NN2",
+            "5NN1",
+            "5NMM",
+            "5NEI",
+            "4DFW",
+            "5TA8",
+            "5TA6",
+            "5J19",
+            "4X9W",
+            "4X9V",
+            "4X9R",
+            "4WHL",
+            "4WHK",
+            "4WHH",
+            "4O6W",
+            "4RCP",
+            "4HY2"
+        ]
+    },
+    {
+        "AID": "720532",
+        "GI": "420597",
+        "ProteinName": "gene 4 small orf - Marburg virus",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "720542",
+        "GI": "23496270",
+        "ProteinName": "apical membrane antigen 1, AMA1 [Plasmodium falciparum 3D7]",
+        "pdb_ids": [
+            "4R1C",
+            "4R1B",
+            "4R19",
+            "3ZWZ",
+            "3SRJ",
+            "2Z8W",
+            "2Z8V",
+            "2Q8B",
+            "2Q8A",
+            "1Z40"
+        ]
+    },
+    {
+        "AID": "720551",
+        "GI": "342840031",
+        "ProteinName": "potassium voltage-gated channel subfamily H member 2 isoform a, partial [Homo sapiens]",
+        "pdb_ids": [
+            "6SYG",
+            "1UJL",
+            "5VA3",
+            "5VA2",
+            "5VA1",
+            "2N7G",
+            "4HQA",
+            "4HP9",
+            "2LE7",
+            "2L1M",
+            "2L4R",
+            "1BYW"
+        ]
+    },
+    {
+        "AID": "720553",
+        "GI": "342840031",
+        "ProteinName": "potassium voltage-gated channel subfamily H member 2 isoform a, partial [Homo sapiens]",
+        "pdb_ids": [
+            "6SYG",
+            "1UJL",
+            "5VA3",
+            "5VA2",
+            "5VA1",
+            "2N7G",
+            "4HQA",
+            "4HP9",
+            "2LE7",
+            "2L1M",
+            "2L4R",
+            "1BYW"
+        ]
+    },
+    {
+        "AID": "720579",
+        "GI": "222762",
+        "ProteinName": "67.9K protein [Vaccinia virus]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "720580",
+        "GI": "222762",
+        "ProteinName": "67.9K protein [Vaccinia virus]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "720707",
+        "GI": "317373593",
+        "ProteinName": "Rap guanine nucleotide exchange factor 3; Exchange factor directly activated by cAMP 1; Exchange protein directly activated by cAMP 1; EPAC 1; Rap1 guanine-nucleotide-exchange factor directly activated by cAMP; cAMP-regulated guanine nucleotide exchange factor I; cAMP-GEFI",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "720708",
+        "GI": "32171491",
+        "ProteinName": "Rap guanine nucleotide exchange factor 4; Exchange factor directly activated by cAMP 2; Exchange protein directly activated by cAMP 2; EPAC 2; cAMP-regulated guanine nucleotide exchange factor II; cAMP-GEFII",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "720709",
+        "GI": "317373593",
+        "ProteinName": "Rap guanine nucleotide exchange factor 3; Exchange factor directly activated by cAMP 1; Exchange protein directly activated by cAMP 1; EPAC 1; Rap1 guanine-nucleotide-exchange factor directly activated by cAMP; cAMP-regulated guanine nucleotide exchange factor I; cAMP-GEFI",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "720711",
+        "GI": "32171491",
+        "ProteinName": "Rap guanine nucleotide exchange factor 4; Exchange factor directly activated by cAMP 2; Exchange protein directly activated by cAMP 2; EPAC 2; cAMP-regulated guanine nucleotide exchange factor II; cAMP-GEFII",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "743255",
+        "GI": "118600387",
+        "ProteinName": "USP1 protein, partial [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "743266",
+        "GI": "296080761",
+        "ProteinName": "parathyroid hormone/parathyroid hormone-related peptide receptor precursor [Homo sapiens]",
+        "pdb_ids": [
+            "6NBI",
+            "6NBH",
+            "6NBF",
+            "6FJ3",
+            "3L2J",
+            "3H3G",
+            "3C4M",
+            "1BL1"
+        ]
+    },
+    {
+        "AID": "875",
+        "GI": "159162802",
+        "ProteinName": "Chain A, Solution Structure Of The Brct-C Domain From Human Brca1",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "881",
+        "GI": "317373425",
+        "ProteinName": "Arachidonate 15-lipoxygenase B; 15-LOX-B; 15-lipoxygenase 2; 15-LOX-2; Arachidonate 15-lipoxygenase type II",
+        "pdb_ids": [
+            "4NRE"
+        ]
+    },
+    {
+        "AID": "883",
+        "GI": "13699818",
+        "ProteinName": "cytochrome P450 2C9 precursor [Homo sapiens]",
+        "pdb_ids": [
+            "5W0C",
+            "5K7K",
+            "5A5I",
+            "5A5J",
+            "1R9O",
+            "1OG5",
+            "1OG2"
+        ]
+    },
+    {
+        "AID": "884",
+        "GI": "13435386",
+        "ProteinName": "cytochrome P450 3A4 isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6UNM",
+            "6UNL",
+            "6UNK",
+            "6UNJ",
+            "6UNI",
+            "6UNH",
+            "6UNG",
+            "6UNE",
+            "6OOB",
+            "6OOA",
+            "6OO9",
+            "6DAL",
+            "6DAJ",
+            "6DAG",
+            "6DAC",
+            "6DAB",
+            "6DAA",
+            "6DA8",
+            "6DA5",
+            "6DA3"
+        ]
+    },
+    {
+        "AID": "885",
+        "GI": "13435386",
+        "ProteinName": "cytochrome P450 3A4 isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6UNM",
+            "6UNL",
+            "6UNK",
+            "6UNJ",
+            "6UNI",
+            "6UNH",
+            "6UNG",
+            "6UNE",
+            "6OOB",
+            "6OOA",
+            "6OO9",
+            "6DAL",
+            "6DAJ",
+            "6DAG",
+            "6DAC",
+            "6DAB",
+            "6DAA",
+            "6DA8",
+            "6DA5",
+            "6DA3"
+        ]
+    },
+    {
+        "AID": "887",
+        "GI": "1832253",
+        "ProteinName": "15-lipoxygenase, partial [Homo sapiens]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "891",
+        "GI": "40805836",
+        "ProteinName": "cytochrome P450 2D6 isoform 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6CSD",
+            "6CSB",
+            "5TFU",
+            "5TFT",
+            "4XRZ",
+            "4XRY",
+            "4WNW",
+            "4WNV",
+            "4WNU",
+            "4WNT",
+            "3TDA",
+            "3TBG",
+            "3QM4",
+            "2F9Q"
+        ]
+    },
+    {
+        "AID": "899",
+        "GI": "4503219",
+        "ProteinName": "cytochrome P450 2C19 precursor [Homo sapiens]",
+        "pdb_ids": [
+            "4GQS"
+        ]
+    },
+    {
+        "AID": "902",
+        "GI": "120407068",
+        "ProteinName": "cellular tumor antigen p53 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "7BWN",
+            "6VRN",
+            "6VRM",
+            "6VR5",
+            "6SLV",
+            "6SIQ",
+            "6SIP",
+            "6SIO",
+            "6SIN",
+            "6S9Q",
+            "6S39",
+            "6RX2",
+            "6RWU",
+            "6RWS",
+            "6RWI",
+            "6RWH",
+            "6RM7",
+            "6RM5",
+            "6RL6",
+            "6RL4"
+        ]
+    },
+    {
+        "AID": "903",
+        "GI": "120407068",
+        "ProteinName": "cellular tumor antigen p53 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "7BWN",
+            "6VRN",
+            "6VRM",
+            "6VR5",
+            "6SLV",
+            "6SIQ",
+            "6SIP",
+            "6SIO",
+            "6SIN",
+            "6S9Q",
+            "6S39",
+            "6RX2",
+            "6RWU",
+            "6RWS",
+            "6RWI",
+            "6RWH",
+            "6RM7",
+            "6RM5",
+            "6RL6",
+            "6RL4"
+        ]
+    },
+    {
+        "AID": "904",
+        "GI": "120407068",
+        "ProteinName": "cellular tumor antigen p53 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "7BWN",
+            "6VRN",
+            "6VRM",
+            "6VR5",
+            "6SLV",
+            "6SIQ",
+            "6SIP",
+            "6SIO",
+            "6SIN",
+            "6S9Q",
+            "6S39",
+            "6RX2",
+            "6RWU",
+            "6RWS",
+            "6RWI",
+            "6RWH",
+            "6RM7",
+            "6RM5",
+            "6RL6",
+            "6RL4"
+        ]
+    },
+    {
+        "AID": "912",
+        "GI": "21392848",
+        "ProteinName": "lethal factor [Bacillus anthracis str. A2012]",
+        "pdb_ids": [
+            null
+        ]
+    },
+    {
+        "AID": "914",
+        "GI": "32879895",
+        "ProteinName": "hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor) [Homo sapiens]",
+        "pdb_ids": [
+            "5LAS",
+            "5LA9",
+            "5L9V",
+            "5L9B",
+            "4H6J",
+            "4AJY",
+            "3HQU",
+            "3HQR",
+            "2ILM",
+            "1H2M",
+            "1H2L",
+            "1H2K",
+            "1LQB",
+            "1LM8",
+            "1L8C",
+            "1L3E"
+        ]
+    },
+    {
+        "AID": "915",
+        "GI": "32879895",
+        "ProteinName": "hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor) [Homo sapiens]",
+        "pdb_ids": [
+            "5LAS",
+            "5LA9",
+            "5L9V",
+            "5L9B",
+            "4H6J",
+            "4AJY",
+            "3HQU",
+            "3HQR",
+            "2ILM",
+            "1H2M",
+            "1H2L",
+            "1H2K",
+            "1LQB",
+            "1LM8",
+            "1L8C",
+            "1L3E"
+        ]
+    },
+    {
+        "AID": "924",
+        "GI": "120407068",
+        "ProteinName": "cellular tumor antigen p53 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "7BWN",
+            "6VRN",
+            "6VRM",
+            "6VR5",
+            "6SLV",
+            "6SIQ",
+            "6SIP",
+            "6SIO",
+            "6SIN",
+            "6S9Q",
+            "6S39",
+            "6RX2",
+            "6RWU",
+            "6RWS",
+            "6RWI",
+            "6RWH",
+            "6RM7",
+            "6RM5",
+            "6RL6",
+            "6RL4"
+        ]
+    },
+    {
+        "AID": "925",
+        "GI": "4504349",
+        "ProteinName": "hemoglobin subunit beta [Homo sapiens]",
+        "pdb_ids": [
+            "4HHB",
+            "6LCX",
+            "6LCW",
+            "6L5Y",
+            "6L5X",
+            "6L5W",
+            "6L5V",
+            "6KAV",
+            "6KAU",
+            "6KAT",
+            "6KAS",
+            "6KAR",
+            "6KAQ",
+            "6KAP",
+            "6KAO",
+            "6KAI",
+            "6KAH",
+            "6KAE",
+            "6KA9",
+            "6NQ5"
+        ]
+    },
+    {
+        "AID": "926",
+        "GI": "38016895",
+        "ProteinName": "thyroid stimulating hormone receptor [Homo sapiens]",
+        "pdb_ids": [
+            "2XWT",
+            "3G04"
+        ]
+    },
+    {
+        "AID": "927",
+        "GI": "188528692",
+        "ProteinName": "ubiquitin carboxyl-terminal hydrolase 2 isoform a [Homo sapiens]",
+        "pdb_ids": [
+            "6DGF",
+            "5XVE",
+            "5XU8",
+            "3V6E",
+            "3V6C",
+            "3NHE",
+            "2IBI",
+            "2HD5"
+        ]
+    },
+    {
+        "AID": "938",
+        "GI": "38016895",
+        "ProteinName": "thyroid stimulating hormone receptor [Homo sapiens]",
+        "pdb_ids": [
+            "2XWT",
+            "3G04"
+        ]
+    },
+    {
+        "AID": "995",
+        "GI": "66932916",
+        "ProteinName": "mitogen-activated protein kinase 1 [Homo sapiens]",
+        "pdb_ids": [
+            "6RQ4",
+            "6SLG",
+            "6OPI",
+            "6OPH",
+            "6OPG",
+            "6NBS",
+            "6QAW",
+            "6QAQ",
+            "6QAL",
+            "6QAG",
+            "6Q7K",
+            "6G54",
+            "6D5Y",
+            "6GJD",
+            "6GJB",
+            "6DMG",
+            "6GE0",
+            "6GDQ",
+            "6GDM",
+            "6G9N"
+        ]
+    }
+]
